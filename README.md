@@ -3,7 +3,14 @@
 バッチファイル置き場です。
 
 ```
-root
-github
+ root
+ │
+ │   README.md
+ │
+ ├─ github
+ │   ├─git-pushlazy.bat
+ │   ├─gituser-check.bat
+ │   └─gituser-set.bat
+ │
 ```
 
