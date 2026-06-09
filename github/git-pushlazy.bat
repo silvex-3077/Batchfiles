@@ -25,7 +25,7 @@ set /p msg="Commit message? : "
 
 if not defined msg (
     set "current_time=%time: =0%"
-    call set "msg=[Auto] %%date%% %%current_time:~0,5%%"
+    call set "msg=[Auto] %%date%% %%current_time:~0,8%%"
 )
 
 git commit -m "%msg%"

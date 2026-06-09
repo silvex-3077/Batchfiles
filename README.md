@@ -8,9 +8,9 @@
  │   README.md
  │
  ├─ github
- │   ├─git-pushlazy.bat
- │   ├─gituser-check.bat
- │   └─gituser-set.bat
+ │   ├─ git-pushlazy.bat
+ │   ├─ gituser-check.bat
+ │   └─ gituser-set.bat
  │
 ```
 
