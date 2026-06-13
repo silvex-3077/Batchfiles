@@ -1,6 +1,6 @@
 # Batchfiles
 
-バッチファイル置き場です。
+バッチファイル & 便利ツール置き場です。
 
 ```
  root
@@ -11,6 +11,8 @@
  │   ├─ git-pushlazy.bat
  │   ├─ gituser-check.bat
  │   └─ gituser-set.bat
+ ├─ rust
+ │   └─ clip-scraper
  │
 ```
 
