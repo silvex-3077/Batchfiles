@@ -1,0 +1,8 @@
+[package]
+name = "clip-scraper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arboard = "3.6.1"
+bpaf = { version = "0.9.19", features = ["derive"] }
